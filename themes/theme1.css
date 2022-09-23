@@ -1,0 +1,38 @@
+/* @theme theme1 */
+
+@import 'gaia';
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css');
+
+section {
+    background: lightyellow;
+}
+
+/* 最初のスライド */
+section.first-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section.first-page h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 90px;
+    font-weight: bold;
+}
+
+section.first-page h3 {
+    display: flex;
+    justify-content: center;
+}
+
+/* section.lead {
+    font-size: 90px;
+    font-weight: bold;
+} */
+
+section.centering-table table {
+    margin: auto
+}

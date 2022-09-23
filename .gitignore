@@ -1,0 +1,7 @@
+images/*
+!images/cat.jpg
+*.md
+*.pdf
+!marp_example.md
+!marp_example.pdf
+!README.md
