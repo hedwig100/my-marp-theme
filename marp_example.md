@@ -67,3 +67,7 @@ $$
 
 あいうえお
 <i class="bi bi-arrow-right"></i>
+
+---
+## 画像を横に並べる
+| ![height:300](images/cat.jpg) | ![height:300](images/cat.jpg) |
